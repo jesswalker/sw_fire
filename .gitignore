@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/docs
+/graphics
+/output
+/data/tables
+/data/timesat
+/gis
